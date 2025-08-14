@@ -1,2 +1,4 @@
 git config --global user.name luymoon
 git config --global user.email aguiarluana780@gmail.com
+
+npx expo start --localhost --android
